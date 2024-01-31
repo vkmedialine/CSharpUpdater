@@ -2,7 +2,7 @@
 <sharpUpdate>
 	<update appId="CSharpUpdater">
 		<version>2.0.0.0</version>
-		<url>https://theonenik.free.nf/Uploads/CSharpUpdater.exe</url>
+		<url>https://vkmedialine.github.io/CSharpUpdater/CSharpUpdater.exe</url>
 		<fileName>CSharpUpdater.exe</fileName>
 		<md5>cc8a5e9aa81f9982f2eb2917eb16d6d4</md5>
 		<description>Initial Update</description>
