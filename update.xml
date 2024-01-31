@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Updater>
+<sharpUpdate>
 	<update appId="CSharpUpdater">
 		<version>2.0.0.0</version>
 		<url>https://vkmedialine.github.io/CSharpUpdater/CSharpUpdater.exe</url>
@@ -8,4 +8,4 @@
 		<description>Initial Update</description>
 		<launchArgs>a</launchArgs>
 	</update>
-</Updater>
+</sharpUpdate>
