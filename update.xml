@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="CSharpUpdater">
-		<version>2.0.0.0</version>
+		<version>2.1.0.0</version>
 		<url>https://vkmedialine.github.io/CSharpUpdater/CSharpUpdater.exe</url>
 		<fileName>CSharpUpdater.exe</fileName>
 		<md5>cc8a5e9aa81f9982f2eb2917eb16d6d4</md5>
